@@ -1,2 +1,1 @@
-# translateArticles
-帮媳妇翻译的活
+# 博客文档
